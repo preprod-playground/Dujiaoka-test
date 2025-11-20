@@ -8,7 +8,7 @@
 </p>
 
 ## 独角数卡  
-
+ 
 开源式站长自动化售货解决方案、高效、稳定、快速！ 
 
 - 框架来自：[laravel/framework](https://github.com/laravel/laravel).
